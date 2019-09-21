@@ -38,5 +38,6 @@ void core() {
         HAL_Delay(100);
     }
 
+    while (true);
 }
 
